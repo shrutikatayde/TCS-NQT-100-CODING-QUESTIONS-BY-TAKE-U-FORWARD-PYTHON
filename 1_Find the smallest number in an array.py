@@ -4,7 +4,6 @@ def small_num(n, arr):
         if arr[i]<min:
             min = arr[i]
     return min
-
 if __name__ == '__main__':
     n = int(input())
     arr = []
